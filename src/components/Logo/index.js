@@ -4,7 +4,11 @@ import './style.css'
 function Logo(){
     return (
         <div className='logo'>
-          <img src={logo} alt='Alura Books Logo'></img>
+          <img 
+          src={logo} 
+          alt='Alura Books Logo' 
+          className='logo-img'
+          ></img>
           <p><strong>Alura </strong>Books</p>
         </div>)
 }
