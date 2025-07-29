@@ -9,33 +9,3 @@
     display: flex;
     justify-content: center;
 }
-
-.opcoes{
-    display: flex;
-}
-
-.opcao{
-    min-width: 8rem;
-    font-size: 1rem;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    text-align: center;
-    height: 100%;
-    padding: 0 0.5rem;
-    cursor: pointer;
-}
-
-.icones{
-    display: flex;
-    align-items: center;
-}
-
-.icone{
-        margin-right: 2.5rem;
-        width: 1.5rem;
-}
-
-li{
-    list-style: none;
-}
