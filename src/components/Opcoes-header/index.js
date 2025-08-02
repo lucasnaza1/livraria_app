@@ -1,4 +1,3 @@
-import './style.css'
 import styled from 'styled-components'
 
 const textoOpcoes = ['CATEGORIAS', 'FAVORITOS', 'MINHA BIBLIOTECA']
