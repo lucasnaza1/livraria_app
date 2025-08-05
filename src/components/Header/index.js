@@ -7,6 +7,7 @@ const HeaderContainer = styled.header`
     background-color: #ffffff;
     display: flex;
     justify-content: center;
+    font-size: 1.3rem;
 }
 
 `
