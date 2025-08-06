@@ -24,22 +24,22 @@ const Subtitulo = styled.h3`
         font-weight: 500;
         margin-bottom: 40px;
 `
-const Resultado = styled.div`
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    margin-bottom: 20px;
-    cursor: pointer;
-    p {
-        width: 200px;
-    }
-    img {
-        width: 100px;
-    }
-    &:hover {
-        border: 1px solid white;
-    }
-`
+        const Resultado = styled.div`
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-bottom: 20px;
+        cursor: pointer;
+        p {
+                width: 200px;
+        }
+        img {
+                width: 100px;
+        }
+        &:hover {
+                border: 1px solid white;
+        }
+        `
 
 function Pesquisa() {
     const [livrosPesquisados, setLivrosPesquisados] = useState([])
