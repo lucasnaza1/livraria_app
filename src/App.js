@@ -1,7 +1,7 @@
 import Header from './components/Header'
 import styled from 'styled-components'
 import Pesquisa from './components/Pesquisa';
-import UltimosLancamentos from './components/UltimosLancamentos/UltimanetosLancamentos';
+import UltimosLancamentos from './components/UltimosLancamentos/index';
 
 const AppContainer = styled.div`
     width: 100vw;
