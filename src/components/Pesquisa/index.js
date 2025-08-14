@@ -24,7 +24,7 @@ const Subtitulo = styled.h3`
         font-weight: 500;
         margin-bottom: 40px;
 `
-        const Resultado = styled.div`
+const Resultado = styled.div`
         display: flex;
         justify-content: center;
         align-items: center;
