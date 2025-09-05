@@ -1,4 +1,4 @@
-import styled from 'styled-components'
+import styled from 'styled-components';
 import Pesquisa from '../components/Pesquisa';
 import UltimosLancamentos from '../components/UltimosLancamentos/index';
 
